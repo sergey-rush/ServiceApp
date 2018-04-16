@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="dimen16">16dp</dimen>
+    <!-- Common font sizes -->
+    <dimen name="font16">16sp</dimen>
+    <dimen name="font18">18sp</dimen>
+    <dimen name="font20">20sp</dimen>
+    <dimen name="font22">22sp</dimen>
+</resources>
